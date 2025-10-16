@@ -1,2 +1,6 @@
-# primary-election-analysis
-Causal Inference and Multiple Hypothesis Testing. Final Project for DATA 102: Data, Inference, and Decision @UC Berkeley
+# Primary Elections, Endorsements, and Campaign Funding Analysis
+### Causal Inference and Multiple Hypothesis Testing | DATA102: Data, Inference and Decisions - UC Berkeley
+
+Included files:
+- Google Colab Notebook
+- Final Writeup
